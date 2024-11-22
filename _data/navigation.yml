@@ -8,14 +8,23 @@ main:
    - title: "Publications"
      url: /publications/
 
+   - title: "Working Papers"
+     url: /Working-Papers/
+
+   - title: "Research Project"
+     url: /Research-Project/
+     
+   - title: "Conference & Workshop Presentations"
+     url: /Conference-Presentations/    
+
+   - title: "Teaching"
+     url: /teaching/    
+
    - title: "中文"
      url: /cn_version/
 
   # - title: "Talks"
   #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
