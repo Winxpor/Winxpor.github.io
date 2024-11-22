@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, School of Economics and Management, Harbin Institute of Technology, Shenzhen (HITSZ)"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology, \n Shenzhen (HITSZ)"
+  employer         : #
   uri              : # URL
   email            : "yindeyunut@gmail.com" 
 
