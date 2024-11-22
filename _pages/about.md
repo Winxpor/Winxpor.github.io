@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Personal Profile
-======
 Dr. Deyun Yin is associate professor in innovation economics and intellectual property (IP) data mining at Harbin Institute of Technology, Shenzhen (HITSZ). In March 2019, she received her Ph.D. degree from the Department of Technology Management for Innovation, at the University of Tokyo. After graduation, she has been working as a research fellow for the World Intellectual Property Organization (WIPO), a specialized agency of the United Nations. Dr. Yin has rich research and working experience in Japanese government-affiliated research organizations such as Research Institute of Economy, Trade, and Industry (RIETI) as well as National Institute of Science and Technology Policy (NISTEP). She also serves as a senior guest fellow at the University of Tokyo. 
 
 Dr. Yin’s research focuses on technological innovation with large-scale intellectual property data, especially the application of artificial intelligence, machine learning, social network analysis in innovation studies, economic geography as well as science, technology, and innovation policy. Some of her papers have been published on international journals such as **Nature Climate Change, Journal of Informetrics, Scientometrics** etc. When working as a fellow WIPO, she also contributed to the release of the **World Intellectual Property Report (WIPR) 2019, WIPR 2022 and led one WIPO development study** – *Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen*.
