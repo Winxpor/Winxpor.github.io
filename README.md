@@ -35,7 +35,7 @@ Jekyll利用编写好的Markdown生成HTML文件。GitHub自带Jekyll，所以�
 
   - 无论是markdown文件还是html文件，都要编写文件最开头的YAML front matter信息。以Publications栏的publications2.md为例：
 
-    ![{80E04722-2A81-4B88-BA54-F93CDC158488}](../../../BackendDev/TextFolder/SelfStudy/图片库/{80E04722-2A81-4B88-BA54-F93CDC158488}-1732367438845-1.png)
+    ![{80E04722-2A81-4B88-BA54-F93CDC158488}](/images/{80E04722-2A81-4B88-BA54-F93CDC158488}.png)
 
     - 在_pages文件夹创建的markdown文件，其名称通常与navigation.yml文件中相应栏目的url一致，方便查找修改，比如此处的publications2.md就与Publications栏的url一致。
 
