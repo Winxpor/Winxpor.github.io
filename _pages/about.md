@@ -17,6 +17,8 @@ She was invited to give speeches at the National Bureau of Economic Research (NB
 
 As a data scientist, Dr. Yin is proficient in programming languages such as Python, and statistical software like R, STATA, Tableau, MS Excel as well as SQL. 
 
+Students interested in innovation economics and management, science and technology innovation policy, and big data analysis of intellectual property are welcome to apply for master's and PhD programs! Applicants with programming experience will be given priority.
+
 
 
 Education Experiences
