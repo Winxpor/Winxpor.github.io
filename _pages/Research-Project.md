@@ -9,7 +9,7 @@ redirect_from:
 
 ## As Principal Investigator
 
-|      Year       |                           Project                            |
+|      Date       |                           Project                            |
 | :-------------: | :----------------------------------------------------------: |
 | 2025.01~2027.12 | **Identifying Chinese breakthrough innovation patents based on text-mining and machine learning algorithms and its applications on empirical study of regional breakthrough innovations**, National Natural Science Foundation of China (NSFC) Project No. 72404069, PI |
 | 2024.05~2024.12 | **Guangdong Innovation Report 2024**, Guangdong Market Supervision and Administration Bureau, PI |
@@ -23,7 +23,7 @@ redirect_from:
 
 ## As Participant
 
-|      Year       |                           Project                            |
+|      Date       |                           Project                            |
 | :-------------: | :----------------------------------------------------------: |
 | 2023.11~2024.01 | **Analysis of Shenzhen’s Digital Entrepreneurship Ecosystem**, <br>Shenzhen Technology Transfer Management Center, participation |
 | 2023.06~2023.12 | **Shenzhen’s Intellectual Property Strategy**, participation |

@@ -3,8 +3,8 @@ permalink: /ppublications/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /ppublications/
-  - /ppublications.html
+  - /publications2/
+  - /publications2.html
 ---
 
 ## Journal & Conference Paper

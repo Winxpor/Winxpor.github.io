@@ -6,7 +6,7 @@
 
 main:
    - title: "Publications"
-     url: /ppublications/
+     url: /publications2/
 
    - title: "Working Papers"
      url: /Working-Papers/
@@ -18,7 +18,7 @@ main:
      url: /Conference-Presentations/    
 
    - title: "Teaching"
-     url: /teaching/    
+     url: /teaching2/
 
    - title: "中文"
      url: /cn_version/
