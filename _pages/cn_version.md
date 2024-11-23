@@ -66,3 +66,6 @@ redirect_from:
 | 2020.09  |  组织欧洲创新政策（EPIP）会议专门会议：性别，知识产权与创新  |
 | 2019.12~ | 担任NBER创新信息企划（Innovation Information Initiative）首批专家组成员 |
 | 2018.11~ | Research Policy, Environment and Planning A: Economics and Space, Scientometrics, AOM 美国管理学年会等多个期刊审稿人 |
+
+test [click here](https://winxpor.github.io/test/).
+

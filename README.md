@@ -1,77 +1,76 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+Jekyll利用编写好的Markdown生成HTML文件。GitHub自带Jekyll，所以项目文件可以直接托管给GitHub，无需自己再建站部署。
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+# 部署
 
-# Getting Started
+整个项目clone到自己新建的GitHub库中，库名改成[GitHub名].github.io，_config.yml文件中的url也改成[GitHub名].github.io
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+<img src="../../../BackendDev/TextFolder/SelfStudy/图片库/image-20241123205712940.png" alt="image-20241123205712940" style="zoom:50%;" />
 
-See more info at https://academicpages.github.io/
+# 基础删改
 
-## Running locally
+- 模板官方说明 https://academicpages.github.io/
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+- 基本信息修改：编辑配置文件_config.yml
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+  <img src="../../../BackendDev/TextFolder/SelfStudy/图片库/image-20241123200356687.png" alt="image-20241123200356687" style="zoom: 50%;" />
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+  <img src="../../../BackendDev/TextFolder/SelfStudy/图片库/{65F5F599-77A2-4AB5-A818-9D45EAB7A4C2}.png" alt="{65F5F599-77A2-4AB5-A818-9D45EAB7A4C2}" style="zoom:50%;" />
 
-## Using Docker
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-Start by build the container:
+- 静态文件（pdf文件等）: /files/
+- 主页图片（可以在_config.yml中修改）: images/profile.png
 
-```bash
-docker build -t jekyll-site .
-```
+- 顶部导航栏配置：_data/navigation.yml
 
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
+  ![{39BC5255-2FA8-41DE-A3E3-970B6ACD654B}](../../../BackendDev/TextFolder/SelfStudy/图片库/{39BC5255-2FA8-41DE-A3E3-970B6ACD654B}.png)
 
-# Maintenance
+  <img src="../../../BackendDev/TextFolder/SelfStudy/图片库/{2BDFBE00-C914-4BF7-8488-BEBEC887392B}.png" alt="{2BDFBE00-C914-4BF7-8488-BEBEC887392B}" style="zoom:50%;" />
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+  
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+- **关键*** 编辑导航栏每一项对应的单页：_pages/
 
-## Bugfixes and enhancements
+  - 每一个单页对应一个markdown文件或html文件。
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+  - 无论是markdown文件还是html文件，都要编写文件最开头的YAML front matter信息。以Publications栏的publications2.md为例：
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+    ![{80E04722-2A81-4B88-BA54-F93CDC158488}](../../../BackendDev/TextFolder/SelfStudy/图片库/{80E04722-2A81-4B88-BA54-F93CDC158488}.png)
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+    - 在_pages文件夹创建的markdown文件，其名称通常与navigation.yml文件中相应栏目的url一致，方便查找修改，比如此处的publications2.md就与Publications栏的url一致。
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+      <img src="../../../BackendDev/TextFolder/SelfStudy/图片库/{AA48D626-C8B3-4BBA-845F-9622C8F43B9A}.png" alt="{AA48D626-C8B3-4BBA-845F-9622C8F43B9A}" style="zoom: 80%;" />
+
+    - `permalink:` 指定页面的永久链接，此处设为`/publications2/`，与navigation.yml文件中Publications栏的url一致
+      - 如果设定为/，表示将当前文件映射至网站首页，本项目中的about.md文件是这样配置的。
+    - `title:` 设定页面标题，通常会显示在网页的浏览器标签中或页面的显著位置。
+      - ![image-20241123202306851](../../../BackendDev/TextFolder/SelfStudy/图片库/image-20241123202306851.png)
+    - `redirect_from: `设置重定向路径，可以让其他链接自动跳转到此页面。路径 `/publications2/` 和 `/publications2.html` 将自动跳转到当前页面。**路径名通常与`permalink:` 保持一致。**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
