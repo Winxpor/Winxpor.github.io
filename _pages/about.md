@@ -3,8 +3,8 @@ permalink: /
 title: "About Me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+ - /about/
+ - /about.html
 ---
 
 Dr. Deyun Yin is associate professor in innovation economics and intellectual property (IP) data mining at Harbin Institute of Technology, Shenzhen (HITSZ). In March 2019, she received her Ph.D. degree from the Department of Technology Management for Innovation, at the University of Tokyo. After graduation, she has been working as a research fellow for the World Intellectual Property Organization (WIPO), a specialized agency of the United Nations. Dr. Yin has rich research and working experience in Japanese government-affiliated research organizations such as Research Institute of Economy, Trade, and Industry (RIETI) as well as National Institute of Science and Technology Policy (NISTEP). She also serves as a senior guest fellow at the University of Tokyo. 
@@ -19,15 +19,15 @@ As a data scientist, Dr. Yin is proficient in programming languages such as Pyth
 
 
 
-Education
+Education Experiences
 ======
 
-|      Year       |                    Academic Degree                    |     University      |
-| :-------------: | :---------------------------------------------------: | :-----------------: |
-| 2016.04~2019.03 | **Ph.D.** Technology Management for Innovation  (TMI) | University of Tokyo |
-| 2011.09~2014.06 |   **M.A.** History and Philosophy of Science (HPS)    |  Peking University  |
-| 2007.03~2010.07 |      **B.A.** International Class of Philosophy       |  Wuhan University   |
-| 2005.09~2007.02 |           School of Information Management            |  Wuhan University   |
+|      Date       |                   Academic Degree                    |     University      |
+| :-------------: | :--------------------------------------------------: | :-----------------: |
+| 2016.04~2019.03 | **Ph.D.** Technology Management for Innovation (TMI) | University of Tokyo |
+| 2011.09~2014.06 |   **M.A.** History and Philosophy of Science (HPS)   |  Peking University  |
+| 2007.03~2010.07 |      **B.A.** International Class of Philosophy      |  Wuhan University   |
+| 2005.09~2007.02 |           School of Information Management           |  Wuhan University   |
 
 - Dissertation: Organizational and Geographical Mobility of Chinese Inventors: Patterns and Roots
 
@@ -36,93 +36,20 @@ Education
 Working Experiences
 ======
 
-|      Year       |                   Institution                    |      Position       |
-| :-------------: | :----------------------------------------------: | :-----------------: |
-| 2016.04~2019.03 | Harbin Institute of Technology, Shenzhen (HITSZ) | University of Tokyo |
-| 2011.09~2014.06 | **M.A.** History and Philosophy of Science (HPS) |  Peking University  |
-| 2007.03~2010.07 |    **B.A.** International Class of Philosophy    |  Wuhan University   |
-| 2005.09~2007.02 |         School of Information Management         |  Wuhan University   |
+|      Year       |                         Institution                          |      Position       |
+| :-------------: | :----------------------------------------------------------: | :-----------------: |
+|    2024.05~     | Harbin Institute of Technology, Shenzhen (HITSZ),<br>School of Economics and Management | Associate Professor |
+| 2020.01~2024.04 | Harbin Institute of Technology, Shenzhen (HITSZ),<br/>School of Economics and Management | Assistant Professor |
+|    2024.04~     | University of Tokyo,<br>Research Center for Advanced Science and Technology | Senior Guest Fellow |
+|    2019.02~     |       World Intellectual Property Organization (WIPO)        |   Research Fellow   |
+| 2017.05~2019.02 |  Research Institute of Economy, Trade and Industry (RIETI)   | Research Assistant  |
+| 2018.12~2019.09 |                 Baidu Japan Inc. (Part-time)                 |   Data scientist    |
 
 
 
+# Academic Services
 
-
-
-
-
-
-#### **Current: Harbin Institute of Technology, Shenzhen (HITSZ)             		     Shenzhen, China**
-
-**2024.05~**                School of Economics and Management               **Associate Professor**      
-
-**2020.01~2024.04**  School of Economics and Management               **Assistant Professor**      
-
-- **Research** in **Science, Technology, and Innovation (STI) Policy; Innovation Economics and Management, Economic Geography of Innovation, Intellectual Property Data Mining**, Big Data Analysis with Python and Stata.
-
-- **Teaching** courses such as I**nnovation Economics and Management** (Ph.D. course), **Transition and Upgrading of Chinese Economy** (Master course), **Spatial Economics** (Bachelor course) 
-
-- **Supervision** of 30 Bachelor students, 12 Master students and 4 Ph.D. candidates. 
-
-- Administrative and management tasks.  
-
-
-
-#### **University of Tokyo                                                                                                                   Tokyo, Japan**
-
-**2024.04~**    Research Center for Advanced Science and Technology       **Senior Guest Fellow**
-
- 
-
- 
-
-**World Intellectual Property Organization (WIPO)                  Geneva, Switzerland**
-
-**2019.02~**                                              **Research Fellow, Consultant**
-
-Reporting to the Chief Economist and Head of Innovation Economy Section (IES) of the Division of Economics and Data Analytics (DEDA) 
-
-·    Participating in the project of the **World Intellectual Property Report 2019 (WIPR), World Intellectual Property Report (2022)** from planning, data collection, algorithm development, coding, economic analysis of global trends of innovation, policy proposals, launch event and global dissemination. Assistant in other WIPO flagship publications such as Global Innovation Index (GII), World Intellectual Property Indicators, and other development studies. 
-
-·    Initiated WIPO Development studies Series – **“Exploring the evolution of local innovation ecosystems in developing countries: How hotspots emerge and link to the global network of innovation”.** Lead in the project’s major study – “Shenzhen’s Innovation Ecosystems and catch-up”. 
-
-
-
-·    **Lead in the construction of global intellectual property databases** (including patent and copyright databases) **and global scientific publications databases.**  For example, **geocoding** of multinational inventors and patent assignees, **identification of global innovation hotspots and specialized clusters** based on spatial clustering techniques, 
-
-·    **Lead in** **the construction of new indicators for measuring global innovation activities** with cutting-edge **text mining, machine learning** techniques. For instance, identification of global breakthrough innovation, **gender identification** with machine learning techniques, **Machine Translation, and Patent text classification** with deep learning algorithms, etc.
-
-·    **Data visualization and Social network analysis** of global innovation networks. 
-
-·    **Dissemination:** Assisting in enlarging the influence of WIPO’s publications among government and academics 
-
-
-
- 
-
-**Research Institute of Economy, Trade and Industry** **(RIETI)               Tokyo, Japan**
-
-**2017.05~2019.02**                                                 **Research Assistant** 
-
-·    **Database construction:** Construction of Chinese **CNIPA patent database.** Processing of large-scale raw patent data for the Japan Patent Office (JPO). Data collection with **web scraping** techniques. Data processing such as cleaning and linkage of patent information with paper author lists as well as firms’ financial reports.
-
-·    **Algorithm development:** Writing codes for **disambiguating** Chinese inventors’ names with machine learning algorithms, **Geocoding** of Chinese patent assignees**, and Named entity recognition (NER)** of paper authors. 
-
-·    **Economic analysis and policy studies:** Empirical analysis of the patterns, roots and impacts of Chinese inventors. Policy suggestions for talent mobility in China. 
-
- 
-
-**Baidu Japan Inc. (Part-time)                                          Tokyo, Japan**
-
-**2018.12- 2019.09**                                                     **Data scientist**
-
-Reporting to Charles Zhang (CEO) and Longchao Yao (vice president) 
-
-·    **Data analysis and drafting paper** – Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data. Presented and published at 2019 Portland International Conference on Management of Engineering and Technology (PICMET). 
-
-·    **Consulting and analysis of intellectual property management strategy**, business intelligence, technological portfolio, and industry analysis, especially about **autonomous driving and smart speakers**. 
-
-·    **Drafting research reports** about innovation and marketing strategy. 
-
-·    **Data mining:** analysis and prediction with machine learning and NLP techniques, e.g., recommendation system, user profiling, sentimental analysis, etc.
-
-
+|  Date   |                            Event                             |
+| :-----: | :----------------------------------------------------------: |
+| 2020.01 | Co-organizer of GEOINNO 2020’s special session: Big data, machine learning and the challenge of the geography of innovation |
+| 2018.11 | Referee for *Nature Climate Change,* *Research Policy,* *Environment and Planning A: Economics and Space*, *Scientometrics*, *Regional Studies,* Academy of Management (AOM) Annual Conference |
