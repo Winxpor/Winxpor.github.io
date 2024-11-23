@@ -51,5 +51,5 @@ Working Experiences
 
 |  Date   |                            Event                             |
 | :-----: | :----------------------------------------------------------: |
-| 2020.01 | Co-organizer of GEOINNO 2020’s special session: Big data, machine learning and the challenge of the geography of innovation |
+| 2020.01 | Co-organizer of GEOINNO 2020’s special session: <br>Big data, machine learning and the challenge of the geography of innovation |
 | 2018.11 | Referee for *Nature Climate Change,* *Research Policy,* *Environment and Planning A: Economics and Space*, *Scientometrics*, *Regional Studies,* Academy of Management (AOM) Annual Conference |
