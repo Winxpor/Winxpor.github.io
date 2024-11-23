@@ -1,55 +1,68 @@
 ---
 permalink: /cn_version/
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
-  - /cn_version/
-  - /cn_version.html
+ - /cn_version/
+ - /cn_version.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+​        尹德云，现任哈尔滨工业大学（深圳）经济与管理学院**副教授**，博士毕业于**日本东京大学工学部技术经营战略学**，担任联合国下属专门机构**世界知识产权组织（WIPO）经济与数据分析司创新经济处**研究员、顾问**、**东京大学先端科学技术研究中心高级客座研究员。在加盟WIPO之前，曾任日本通商产业省下属经济产业研究所（RIETI）研究助理。
 
-抛瓦！
+​        主要研究方向为技术创新战略、创新经济地理和知识产权大数据分析，研究主题涉及基于机器学习的专利和科研文献大数据挖掘、全球创新集群和创新网络、知识产权与经济增长、气候技术研发创新与国际技术转移等。论文发表在**Nature Climate Change**、Journal of Informetrics 及 Scientometrics等国际顶级杂志上以及牛津大学出版社的图书系列中。参与编写和发布了**《世界知识产权报告2019：创新的地理格局》、《世界知识产权报告2022：创新的方向》，被翻译为五国语言全球发行**，并受到新华社采访解读我国国际创新合作新趋势和特点。2022年**主持发布了WIPO发展研究报告——**Innovation ecosystem and catch-up in developing countries等；**主持国家自然科学基金1项**，以及多项广东省、深圳市政府、大连市政府等知识产权和政府决策咨询项目。
+
+​        获得“**深圳市海外高层次人才”**、南山区“领航人才”称号，担任**国家知识产权局“世界银行全球营商环境与知识产权”项目咨询专家、广东省市场监督管理局（知识产权局）**、广州商标审查中心（广东知识产权公共服务中心）、深圳市科创委项目评审专家，中国（深圳）知识产权保护中心海外维护援助专家等等。应邀在美国国家经济研究所（NBER）、经济合作与发展组织（OECD）、美国专利及商标局（USPTO）、日本国家科技政策研究所（NISTEP）、东京大学、一桥大学、洛桑联邦理工学院（EPFL）研讨会做主题报告多次，研究成果受到国际学术界的广泛肯定，担任**技术经济学会技术孵化与创新生态分会理事**、NBER创新信息企划（Innovation Information Initiative）首批专家组成员。担任Nature Climate Change, Research Policy, Regional Studies, Scientometrics等国际知名期刊和会议的审稿人，并担任2020年在挪威举行的创新经济地理（GEOINNO 2020）机器学习与经济地理分论坛主席。
+
+​        欢迎对创新经济管理、科技创新政策和知识产权大数据分析感兴趣的同学报考研究生和博士！有编程经验的同学优先。
+
+
+
+研究方向
 ======
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 知识产权大数据挖掘；机器学习、文本挖掘与社交网络分析等技术在创新研究上的应用
+- 技术创新管理，创新战略（人才流动及其技术网络），知识产权战略
+- 创新经济地理（创新产业集群和全球创新网络，区域创新系统）
+- 科技政策（知识产权保护与赶超战略，高新技术人才战略、产业园区等）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+
+教育背景
 ======
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+|      时间       |           学位            |   学校   |
+| :-------------: | :-----------------------: | :------: |
+| 2016.04~2019.03 |  **Ph.D.** 技术经营战略   | 东京大学 |
+| 2011.09~2014.06 | **M.A.** 科技哲学与科技史 | 北京大学 |
+| 2005.09~2010.07 |       **B.A.** 哲学       | 武汉大学 |
 
-Site-wide configuration
-------
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
+研究与工作经历
+======
 
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+|      时间       |                      机构                      |      职位      |
+| :-------------: | :--------------------------------------------: | :------------: |
+|    2024.05~     |      哈尔滨工业大学（深圳），经济管理学院      |     副教授     |
+| 2020.01~2024.04 |      哈尔滨工业大学（深圳），经济管理学院      |    助理教授    |
+|    2024.04~     |          东京大学先端科学技术研究中心          | 高级客座研究员 |
+|    2023.03~     | 联合国世界知识产权组织（WIPO）经济与数据分析司 |      顾问      |
+| 2019.02~2023.02 |   联合国世界知识产权组织（WIPO）经济与统计司   |     研究员     |
+| 2017.05~2019.02 |          日本经济产业研究所（RIETI）           |    研究助理    |
+| 2018.12~2019.09 |            Baidu Japan Inc. (实习)             |   数据科学家   |
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
+# 学术与公共服务
 
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+|   时间   |                             身份                             |
+| :------: | :----------------------------------------------------------: |
+| 2024.02~ |    国家知识产权局“世界银行全球营商环境与知识产权”项目专家    |
+| 2023.08~ |            广东省市场监督管理局（知识产权局）专家            |
+| 2022.05~ |           深圳知识产权专家、深圳科创委项目评审专家           |
+| 2021.07~ |         中国（深圳）知识产权保护中心海外维护援助专家         |
+| 2021.11  |           担任中国管理学年会2021知识产权分会场主席           |
+| 2021.01  | 担任在挪威举行的创新经济地理（GEOINNO 2020）机器学习与经济地理分论坛主席 |
+| 2020.09  |  组织欧洲创新政策（EPIP）会议专门会议：性别，知识产权与创新  |
+| 2019.12~ | 担任NBER创新信息企划（Innovation Information Initiative）首批专家组成员 |
+| 2018.11~ | Research Policy, Environment and Planning A: Economics and Space, Scientometrics, AOM 美国管理学年会等多个期刊审稿人 |

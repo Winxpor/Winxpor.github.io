@@ -26,10 +26,7 @@ Education Experiences
 | :-------------: | :--------------------------------------------------: | :-----------------: |
 | 2016.04~2019.03 | **Ph.D.** Technology Management for Innovation (TMI) | University of Tokyo |
 | 2011.09~2014.06 |   **M.A.** History and Philosophy of Science (HPS)   |  Peking University  |
-| 2007.03~2010.07 |      **B.A.** International Class of Philosophy      |  Wuhan University   |
-| 2005.09~2007.02 |           School of Information Management           |  Wuhan University   |
-
-- Dissertation: Organizational and Geographical Mobility of Chinese Inventors: Patterns and Roots
+| 2005.09~2010.07 |      **B.A.** International Class of Philosophy      |  Wuhan University   |
 
 
 
@@ -41,7 +38,8 @@ Working Experiences
 |    2024.05~     | Harbin Institute of Technology, Shenzhen (HITSZ),<br>School of Economics and Management | Associate Professor |
 | 2020.01~2024.04 | Harbin Institute of Technology, Shenzhen (HITSZ),<br/>School of Economics and Management | Assistant Professor |
 |    2024.04~     | University of Tokyo,<br>Research Center for Advanced Science and Technology | Senior Guest Fellow |
-|    2019.02~     |       World Intellectual Property Organization (WIPO)        |   Research Fellow   |
+|    2023.03~     |       World Intellectual Property Organization (WIPO)        |     Consultant      |
+| 2019.02~2023.02 |       World Intellectual Property Organization (WIPO)        |   Research Fellow   |
 | 2017.05~2019.02 |  Research Institute of Economy, Trade and Industry (RIETI)   | Research Assistant  |
 | 2018.12~2019.09 |                 Baidu Japan Inc. (Part-time)                 |   Data scientist    |
 
@@ -49,7 +47,15 @@ Working Experiences
 
 # Academic Services
 
-|  Date   |                            Event                             |
-| :-----: | :----------------------------------------------------------: |
-| 2020.01 | Co-organizer of GEOINNO 2020’s special session: <br>Big data, machine learning and the challenge of the geography of innovation |
-| 2018.11 | Referee for *Nature Climate Change,* *Research Policy,* *Environment and Planning A: Economics and Space*, *Scientometrics*, *Regional Studies,* Academy of Management (AOM) Annual Conference |
+|   Date   |                             Role                             |
+| :------: | :----------------------------------------------------------: |
+| 2024.02~ | Expert for the "World Bank Global Business Environment and Intellectual Property" Project, China National Intellectual Property Administration (CNIPA) |
+| 2023.08~ | Expert for the Guangdong Provincial Administration <br>for Market Regulation (Intellectual Property Office) |
+| 2022.05~ | Intellectual Property Expert for Shenzhen and Project Review Expert <br>for the Shenzhen Science and Technology Innovation Commission |
+| 2021.07~ | Overseas Rights Assistance Expert <br>for the China (Shenzhen) Intellectual Property Protection Center |
+| 2021.11  | Chair of the Intellectual Property Subforum <br>at the 2021 China Management Annual Conference. |
+| 2021.01  | Chair of the Machine Learning and Economic Geography Subforum <br>at the Geography of Innovation (GEOINNO 2020) Conference in Norway |
+| 2020.09  | Organizer of the special session "Gender, Intellectual Property, and Innovation" <br>at the European Policy for Intellectual Property (EPIP) 2020 Conference |
+| 2020.01~ | Co-organizer of GEOINNO 2020’s special session: <br>Big data, machine learning and the challenge of the geography of innovation |
+| 2019.12~ | Founding Member of the Expert Panel for the NBER Innovation Information Initiative |
+| 2018.11~ | Referee for *Nature Climate Change,* *Research Policy,* *Environment and Planning A: Economics and Space*, *Scientometrics*, *Regional Studies,* Academy of Management (AOM) Annual Conference |
