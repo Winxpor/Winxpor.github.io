@@ -13,8 +13,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Jingjing JIANG, **Deyun YIN\***, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **Global innovative trend of methane abatement technologies and widening mismatch with methane emissions**, ***Nature Climate Change\***, 14, 393–401 (* is corresponding author).
 
-  Reported by Nature Briefing: Jingjing JIANG & **Deyun YIN** (2024), **Trends in the global invention and international diffusion of methane abatement technologies**, Nature Portfolio. 
-
 - Jingjing JIANG, **Deyun YIN** †, Zhuoluo SUN, Bin YE (2024), Global innovation trends and critical technical fields of climate change adaptation, ***Nature Sustainability\***. († is co-first author, Under review)*
 - *Georgios TSIACHTSIRAS, **Deyun YIN\***, Ernest MIGUELEZ, Rosina MORENO (2024), **Trains of Thought: High-Speed Rail and Innovation in China**, ***Industry and Innovation\***. (* is corresponding author, Under review).
 - **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **Measuring Risk in Science**. ***Journal of Informetrics\***. 17(3). 
